@@ -1,4 +1,4 @@
-# Intro
+# Introduction
 This repository aims to reduce the minimum effort needed to build and debug the official SVO 2014(non-ROS) implementation on an up-to-date system with recent releases of `OpenCV`, `Eigen` and `Boost`.  
 Note that libraries `sophus`, `vikit-common` and `fast` are unified with the main code `svo`, so it could be a lot easier to debug and understand how they work together.
 
